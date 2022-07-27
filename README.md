@@ -2,11 +2,13 @@
 
 Olá, eu sou o jones 
 
-## Meus hobbies
+![Screenshot_2022-07-27-14-01-33-532](https://user-images.githubusercontent.com/108549559/181360117-4efe0281-93f2-4f61-a04b-0da807f0507c.gif)
 
 - eletronica basica aplicada a cel
 - jogar games
-- assitir filmes e séries
+## Meus hobbies
+
+- assistir filmes e séries
 - ler e estudar novas tecnologias
 
 ## Atualmente estudando
