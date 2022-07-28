@@ -11,7 +11,7 @@ Olá, eu sou o jones
 - assitir filmes e séries
 - ler e estudar novas tecnologias
 
-## Atualmente estudando
+## Atualmente está estudando
 
 - html
 - css
